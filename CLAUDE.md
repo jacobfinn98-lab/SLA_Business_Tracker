@@ -224,3 +224,123 @@ NODE_ENV=
 
 Server-only variables (never prefixed with `NEXT_PUBLIC_`):
 `DATABASE_URL`, `AUTH_SECRET`, `AUTH_SECRET_PREV`, `OAUTH_*`, `WEBHOOK_SIGNING_SECRET`.
+
+---
+
+## Project Context & Documentation
+
+See the full documentation in the `/docs` directory.
+
+### Key Files
+
+- **Architecture**: `docs/architecture.md`
+- **API Design**: `docs/api-conventions.md`
+- **Testing Guide**: `docs/testing.md`
+- **Code Style**: `docs/code-style.md`
+- **Change Journal**: `docs/journal/INDEX.md`
+
+### Instructions
+
+1. Read the relevant guide above before starting work on any feature area.
+2. For file-specific rules, check for a `CLAUDE.md` in the subdirectory.
+3. Always refer to the authoritative source in `/docs`, not any copy or summary.
+
+---
+
+## Change Journal
+
+All significant work must be logged in `docs/journal/` for continuity across sessions.
+
+### Journal Structure
+
+```
+docs/journal/
+  INDEX.md                          # catalog of all entries, newest first
+  YYYY-MM-DD-HH-MM-brief-desc.md   # individual timestamped entry
+```
+
+### When to Write an Entry
+
+After completing any of the following: implementing a feature, fixing a bug, making an architectural decision, updating the schema, or changing a core convention.
+
+### Entry Format
+
+```markdown
+# YYYY-MM-DD HH:MM — Brief Description
+
+## Summary
+What changed and why.
+
+## Changes
+- File / component affected → what changed
+- ...
+
+## Reasoning
+Why this approach was chosen over alternatives.
+
+## Challenges
+Any gotchas, trade-offs, or follow-up items.
+```
+
+### Rules
+
+- Save the entry as `docs/journal/YYYY-MM-DD-HH-MM-brief-description.md` using UTC time.
+- Add a single line to the **top** of `docs/journal/INDEX.md` in the format:
+  `- [YYYY-MM-DD HH:MM](./YYYY-MM-DD-HH-MM-brief-description.md) — one-line summary`
+- Be concise but complete — future sessions rely on these entries for context.
+- Use `/compact` proactively to manage the context window during long sessions.
+
+---
+
+## AI-Assisted Development Workflow (Vibe Coding)
+
+This project follows a **test-first** approach when using Claude to generate implementation code. Tests are the specification language — write them before prompting for implementation.
+
+### Workflow
+
+**Step 1 — Write the test first.**
+Define the expected behaviour using Vitest (unit/integration) or Playwright (E2E). Cover the happy path, error cases, and edge cases before any implementation exists.
+
+**Step 2 — Prompt Claude with the test as context.**
+Use the test file as the primary context. A minimal effective prompt:
+
+```
+Make this test pass.
+File: <path/to/file.test.ts>
+Framework: Vitest
+Do NOT mock the database. DO mock [external service].
+Follow the AAA pattern (Arrange / Act / Assert).
+```
+
+**Step 3 — Review and refactor critically.**
+Do not ship AI-generated code unread. Use the tests as a safety net while refactoring for clarity, correctness, and style. The tests must still pass after refactoring.
+
+**Step 4 — Pre-commit hooks catch regressions.**
+Linting (`npm run lint`) and the test suite (`npm run test`) run automatically on every commit via Husky + lint-staged. A failing hook means the commit is rejected — fix the root cause, never bypass with `--no-verify`.
+
+### Prompt Template for Test Generation
+
+When asking Claude to write tests rather than implementation:
+
+```
+Write [unit | integration | E2E] tests for [component/route/function] using [Vitest | Playwright].
+
+Requirements:
+- Follow the AAA pattern (Arrange / Act / Assert)
+- Test scenarios: [happy path], [error case], [edge case]
+- Do NOT mock: [database, internal helpers]
+- DO mock: [external APIs, email service, third-party SDKs]
+- Framework conventions: [any project-specific patterns]
+```
+
+### Context Tiers
+
+When providing context to Claude, tier it by relevance:
+
+| Tier | What to include |
+|---|---|
+| High context | The test file, the file under test, and the direct imports it uses |
+| Medium context | The relevant `docs/` guide (architecture, API conventions, testing) |
+| Low context | Unrelated files, full `node_modules`, generated migration files |
+
+Never paste entire directories — curate context to the task.
