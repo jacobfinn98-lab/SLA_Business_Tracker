@@ -289,6 +289,7 @@ Any gotchas, trade-offs, or follow-up items.
   `- [YYYY-MM-DD HH:MM](./YYYY-MM-DD-HH-MM-brief-description.md) — one-line summary`
 - Be concise but complete — future sessions rely on these entries for context.
 - Use `/compact` proactively to manage the context window during long sessions.
+- **After every commit**, update the journal entry and `INDEX.md` to reflect what was committed, then include those context file updates in the same commit or a follow-up commit immediately after.
 
 ---
 
@@ -344,3 +345,57 @@ When providing context to Claude, tier it by relevance:
 | Low context | Unrelated files, full `node_modules`, generated migration files |
 
 Never paste entire directories — curate context to the task.
+
+---
+
+## Git & GitHub Workflow
+
+### Commit Every Change
+
+Every discrete, working change must be committed immediately — do not batch unrelated changes into one commit.
+
+**Commit cadence rules:**
+- One logical change = one commit. A feature, a bug fix, a refactor, a config update — each gets its own commit.
+- Never hold back a working change waiting for the "next natural stopping point."
+- After committing code, commit updated context files (`docs/journal/`, `CLAUDE.md` if changed) in the same or an immediate follow-up commit.
+
+### Commit Message Format
+
+```
+<type>(<scope>): <short summary>
+
+[optional body — what and why, not how]
+```
+
+Types: `feat`, `fix`, `refactor`, `test`, `docs`, `chore`, `style`.
+
+Example:
+```
+feat(auth): add bcrypt password hashing on signup
+
+Uses cost factor 12. Plain-text password is never stored or logged.
+```
+
+### Push to GitHub
+
+After every commit (or small batch of related commits), push to the remote:
+
+```bash
+git push origin main   # or the current feature branch
+```
+
+**Push rules:**
+- Never let local commits diverge from `origin` by more than one logical unit of work.
+- Push before ending a session so work is never lost on a local machine.
+- If working on a feature branch, open a PR on GitHub as soon as the branch has at least one meaningful commit — draft PRs are fine.
+
+### Branch Strategy
+
+| Branch | Purpose |
+|---|---|
+| `main` | Always deployable; protected |
+| `feat/<name>` | New features |
+| `fix/<name>` | Bug fixes |
+| `chore/<name>` | Tooling, deps, config |
+
+Merge to `main` via PR only — never push directly to `main`.
