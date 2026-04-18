@@ -1,0 +1,1280 @@
+[
+  {
+    "screen": "Dashboard",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️"
+  },
+  {
+    "screen": "Dashboard - Detail",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/ca9d92/r/8m3jWF9hQJaC.NWaYB1.8w",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Upload proof of completion here if necessary file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "100 RP\nPhone Zone\n\nComplete a 1 hour phone zone",
+      "Upload proof of completion here if necessary\nChoose an image…",
+      "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nSubmit for Approval\n100 RP\nPhone Zone\n\nComplete a 1 hour phone zone\n\nBefore you can earn your reward points, your mentor needs to verify and approve the completion of this challenge. You'll recieve your reward points upon approval.\n\nUpload proof of completion here if necessary\nChoose an image…\nI am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned\nSubmit\nCancel"
+  },
+  {
+    "screen": "Dashboard - Detail 2",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/ca9d92/r/tgMYlDD6QaGEOmzhXtg9Yg",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Upload proof of completion here if necessary file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "100 RP\nAnother One\n\nBook a new company overview",
+      "Upload proof of completion here if necessary\nChoose an image…",
+      "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nSubmit for Approval\n100 RP\nAnother One\n\nBook a new company overview\n\nBefore you can earn your reward points, your mentor needs to verify and approve the completion of this challenge. You'll recieve your reward points upon approval.\n\nUpload proof of completion here if necessary\nChoose an image…\nI am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned\nSubmit\nCancel"
+  },
+  {
+    "screen": "Activity",
+    "url": "https://sla-business-tracker.glide.page/dl/da19fa",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "PROSPECT AGENDA",
+      "CLIENT AGENDA",
+      "AGENT AGENDA",
+      "NETWORK AGENDA",
+      "SCHEDULE"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Filter",
+      "Today",
+      "Agenda",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "PROSPECT AGENDA",
+      "There's nothing booked for your prospects at the moment",
+      "CLIENT AGENDA",
+      "There's nothing booked for your clients at the moment",
+      "AGENT AGENDA",
+      "There's nothing booked for your agents at the moment",
+      "NETWORK AGENDA",
+      "There's nothing booked for your network at the moment",
+      "SCHEDULE",
+      "Filter\nApril 2026\nToday\nAgenda\nNo events available for this period"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nPROSPECT AGENDA\n\nThere's nothing booked for your prospects at the moment\n\nCLIENT AGENDA\n\nThere's nothing booked for your clients at the moment\n\nAGENT AGENDA\n\nThere's nothing booked for your agents at the moment\n\nNETWORK AGENDA\n\nThere's nothing booked for your network at the moment\n\nSCHEDULE\nFilter\nApril 2026\nToday\nAgenda\nNo events available for this period"
+  },
+  {
+    "screen": "Business",
+    "url": "https://sla-business-tracker.glide.page/dl/6471c6",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "PRODUCT MIX",
+      "POINTS SUBMITTED"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "PRODUCT MIX",
+      "POINTS SUBMITTED"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nPRODUCT MIX\nPOINTS SUBMITTED"
+  },
+  {
+    "screen": "Rolodex",
+    "url": "https://sla-business-tracker.glide.page/dl/bdae2a",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "more",
+      "Pre-Contact",
+      "Post-Contact",
+      "Agents",
+      "Clientele",
+      "Network",
+      "Add",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "placeholder": "Search",
+        "ariaLabel": "",
+        "name": "",
+        "label": ""
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "Pre-Contact\nPost-Contact\nAgents\nClientele\nNetwork\nProviders\nPre-Contact\nAdd",
+      "Pre-Contact\nAdd"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nPre-Contact\nPost-Contact\nAgents\nClientele\nNetwork\nProviders\nPre-Contact\nAdd"
+  },
+  {
+    "screen": "BPM Guests",
+    "url": "https://sla-business-tracker.glide.page/dl/0b2172",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "👨‍💻 BPM GUESTS 👨‍💻"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "CONTACT NAME",
+      "ATTENDED",
+      "IN PERSON OR ONLINE",
+      "DATE ATTENDED",
+      "BOOK NEXT STEP",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "👨‍💻 BPM GUESTS 👨‍💻",
+      "April 2026\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP",
+      "YEAR TO DATE\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\n👨‍💻 BPM GUESTS 👨‍💻\nApril 2026\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP\nYEAR TO DATE\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP"
+  },
+  {
+    "screen": "Teams",
+    "url": "https://sla-business-tracker.glide.page/dl/17171d",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Stoosh Leadership Advancement\n\n0 Licensed Agents",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "Teams\nStoosh Leadership Advancement\n\n0 Licensed Agents"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nTeams\nStoosh Leadership Advancement\n\n0 Licensed Agents"
+  },
+  {
+    "screen": "Providers",
+    "url": "https://sla-business-tracker.glide.page/dl/692eaf",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Equitable",
+      "iA Financial Group",
+      "Ivari",
+      "Manulife",
+      "Close",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "placeholder": "Search",
+        "ariaLabel": "",
+        "name": "",
+        "label": ""
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business TrackerBusiness Tracker",
+      "Providers\nEquitable\niA Financial Group\nIvari\nManulife"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nProviders\nEquitable\niA Financial Group\nIvari\nManulife"
+  },
+  {
+    "screen": "Form - Contact",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/ef1de7",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "—",
+      "Choose something",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Company"
+      },
+      {
+        "type": "text",
+        "placeholder": "123-456-7890",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "linkedin.com/in/",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "facebook.com/",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "instagram.com/",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "x.com/",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Company",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something",
+      "Qualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial",
+      "Comments",
+      "Referred By"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nCompany\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nSubmit\nCancel"
+  },
+  {
+    "screen": "Form - Guest",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/8360c7",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Choose something",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "In Person or Online\nRequired\nChoose something",
+      "Date Attended\nRequired\nSelect the date they attended",
+      "Next Step\nRequired\nChoose something"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nAdd New Guest\nIn Person or Online\nRequired\nChoose something\nDate Attended\nRequired\nSelect the date they attended\nNext Step\nRequired\nChoose something\nSubmit\nCancel"
+  },
+  {
+    "screen": "Form - Appt",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/11edad",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Choose something",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "Include the location if you're meeting in person",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Location"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Notes"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Appointment\nRequired\nChoose something",
+      "Appointment Type\nRequired\nChoose something",
+      "Date Booked\nRequired\nSelect the date & time you booked the appt",
+      "Location",
+      "Notes"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nNew Appointment\nAppointment\nRequired\nChoose something\nAppointment Type\nRequired\nChoose something\nDate Booked\nRequired\nSelect the date & time you booked the appt\nLocation\nNotes\nSubmit\nCancel"
+  },
+  {
+    "screen": "Form - Recruit",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c982d4",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "number",
+        "placeholder": "Enter the agent code they recieved",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Agent Code\nRequired"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Agent Code\nRequired"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nAdd Recruit\nAgent Code\nRequired\nSubmit\nCancel"
+  },
+  {
+    "screen": "Form - Biz",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/933567",
+    "viewport": {
+      "width": 1440,
+      "height": 900
+    },
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "Submit",
+      "Cancel",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "Enter the contract/application number",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Contract Number\nRequired"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Describe the details of the business you're submitting. ie 100K UL/T20 or TFSA PAC $100",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Details\nRequired"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include any important comments about the business you're submitting",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "number",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Servicing Agent Points\nRequired"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Licensed Split Agent Code"
+      },
+      {
+        "type": "number",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Licensed Split Agent Points"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Non-Licensed Agent Code"
+      }
+    ],
+    "tableHeaders": [],
+    "sections": [
+      "Business Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Stage\nRequired\nCarry Back\nFollow-up Meeting",
+      "Business (One App Per Submission)\nRequired\nInsurance\nInvestment\nCorporate\nField-Training",
+      "Provider\nRequired\niA Financial Group\nManulife\nIvari\nEquitable",
+      "Contract Number\nRequired",
+      "Application Date\nRequired\n4/17/2026, 9:36:13 PM",
+      "Details\nRequired",
+      "Comments",
+      "Servicing Agent Points\nRequired",
+      "Licensed Split Agent Code",
+      "Licensed Split Agent Points",
+      "Non-Licensed Agent Code"
+    ],
+    "sidebarItems": [
+      "Dashboard",
+      "Activity",
+      "Business",
+      "Rolodex",
+      "BPM Guests",
+      "Teams",
+      "Providers"
+    ],
+    "bodyText": "Business Tracker\nDashboard\nActivity\nBusiness\nRolodex\nBPM Guests\nTeams\nProviders\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nSubmit New Business\nStage\nRequired\nCarry Back\nFollow-up Meeting\nBusiness (One App Per Submission)\nRequired\nInsurance\nInvestment\nCorporate\nField-Training\nProvider\nRequired\niA Financial Group\nManulife\nIvari\nEquitable\nContract Number\nRequired\nApplication Date\nRequired\n4/17/2026, 9:36:13 PM\nDetails\nRequired\nComments\nServicing Agent Points\nRequired\nLicensed Split Agent Code\nLicensed Split Agent Points\nNon-Licensed Agent Code\nSubmit\nCancel"
+  }
+]

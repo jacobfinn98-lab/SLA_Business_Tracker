@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(gsd *)",
+      "Bash(npm --version)",
+      "Bash(node scripts/scrape.js)",
+      "Bash(node scripts/scrape_tabs.js)",
+      "Bash(node scripts/inspect_dom.js)",
+      "Bash(node scripts/scrape_final.js)",
+      "Bash(node *)",
+      "WebFetch(domain:vercel.com)",
+      "WebFetch(domain:github.com)",
+      "Skill(update-config)"
+    ]
+  }
+}

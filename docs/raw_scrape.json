@@ -1,0 +1,1546 @@
+[
+  {
+    "screen": "Dashboard",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [],
+    "sections": [
+      "Welcome back,\nBusiness Tracker",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "bodyText": "Welcome back,\nBusiness Tracker\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Dashboard - Detail",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/ca9d92/r/8m3jWF9hQJaC.NWaYB1.8w",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Upload proof of completion here if necessary file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "100 RP\nPhone Zone\n\nComplete a 1 hour phone zone",
+      "Upload proof of completion here if necessary\nChoose an image…",
+      "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nSubmit for Approval\n100 RP\nPhone Zone\n\nComplete a 1 hour phone zone\n\nBefore you can earn your reward points, your mentor needs to verify and approve the completion of this challenge. You'll recieve your reward points upon approval.\n\nUpload proof of completion here if necessary\nChoose an image…\nI am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Dashboard - Detail 2",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/ca9d92/r/tgMYlDD6QaGEOmzhXtg9Yg",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Upload proof of completion here if necessary file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "100 RP\nAnother One\n\nBook a new company overview",
+      "Upload proof of completion here if necessary\nChoose an image…",
+      "I am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nSubmit for Approval\n100 RP\nAnother One\n\nBook a new company overview\n\nBefore you can earn your reward points, your mentor needs to verify and approve the completion of this challenge. You'll recieve your reward points upon approval.\n\nUpload proof of completion here if necessary\nChoose an image…\nI am submitting this in good faith.\nRequired\nFalse completion will result in no reward points earned\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Activity",
+    "url": "https://sla-business-tracker.glide.page/dl/da19fa",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "PROSPECT AGENDA",
+      "CLIENT AGENDA",
+      "AGENT AGENDA",
+      "NETWORK AGENDA",
+      "SCHEDULE"
+    ],
+    "buttons": [
+      "Filter0",
+      "Today",
+      "Agenda",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [],
+    "sections": [
+      "Activity\nBusiness Tracker",
+      "PROSPECT AGENDA",
+      "There's nothing booked for your prospects at the moment",
+      "CLIENT AGENDA",
+      "There's nothing booked for your clients at the moment",
+      "AGENT AGENDA",
+      "There's nothing booked for your agents at the moment",
+      "NETWORK AGENDA",
+      "There's nothing booked for your network at the moment",
+      "SCHEDULE",
+      "April 2026\nToday\nAgenda\nNo events available for this period"
+    ],
+    "bodyText": "Activity\nBusiness Tracker\nPROSPECT AGENDA\n\nThere's nothing booked for your prospects at the moment\n\nCLIENT AGENDA\n\nThere's nothing booked for your clients at the moment\n\nAGENT AGENDA\n\nThere's nothing booked for your agents at the moment\n\nNETWORK AGENDA\n\nThere's nothing booked for your network at the moment\n\nSCHEDULE\nApril 2026\nToday\nAgenda\nNo events available for this period\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Business",
+    "url": "https://sla-business-tracker.glide.page/dl/6471c6",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "PRODUCT MIX",
+      "POINTS SUBMITTED"
+    ],
+    "buttons": [
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [],
+    "sections": [
+      "Business\nBusiness Tracker",
+      "PRODUCT MIX",
+      "POINTS SUBMITTED"
+    ],
+    "bodyText": "Business\nBusiness Tracker\nPRODUCT MIX\nPOINTS SUBMITTED\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Rolodex",
+    "url": "https://sla-business-tracker.glide.page/dl/bdae2a",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "more",
+      "Add",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "placeholder": "Search",
+        "ariaLabel": "",
+        "name": "",
+        "label": ""
+      }
+    ],
+    "sections": [
+      "Rolodex\nBusiness Tracker",
+      "Pre-Contact\nAdd"
+    ],
+    "bodyText": "Rolodex\nBusiness Tracker\nPre-Contact\nAdd\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "BPM Guests",
+    "url": "https://sla-business-tracker.glide.page/dl/0b2172",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [
+      "👨‍💻 BPM GUESTS 👨‍💻"
+    ],
+    "buttons": [
+      "CONTACT NAME",
+      "ATTENDED",
+      "IN PERSON OR ONLINE",
+      "DATE ATTENDED",
+      "BOOK NEXT STEP",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [],
+    "sections": [
+      "BPM Guests\nBusiness Tracker",
+      "👨‍💻 BPM GUESTS 👨‍💻",
+      "April 2026\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP",
+      "YEAR TO DATE\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP"
+    ],
+    "bodyText": "BPM Guests\nBusiness Tracker\n👨‍💻 BPM GUESTS 👨‍💻\nApril 2026\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP\nYEAR TO DATE\n\t\nCONTACT NAME\n\t\nATTENDED\n\t\nIN PERSON OR ONLINE\n\t\nDATE ATTENDED\n\t\nBOOK NEXT STEP\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Teams",
+    "url": "https://sla-business-tracker.glide.page/dl/17171d",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "Stoosh Leadership Advancement\n\n0 Licensed Agents",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [],
+    "sections": [
+      "Teams\nBusiness Tracker",
+      "Teams\nStoosh Leadership Advancement\n\n0 Licensed Agents"
+    ],
+    "bodyText": "Teams\nBusiness Tracker\nTeams\nStoosh Leadership Advancement\n\n0 Licensed Agents\n\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Providers",
+    "url": "https://sla-business-tracker.glide.page/dl/692eaf",
+    "kpiCards": [],
+    "collectionItems": [],
+    "wireTexts": [],
+    "buttons": [
+      "Equitable",
+      "iA Financial Group",
+      "Ivari",
+      "Manulife",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "text",
+        "placeholder": "Search",
+        "ariaLabel": "",
+        "name": "",
+        "label": ""
+      }
+    ],
+    "sections": [
+      "Providers\nBusiness Tracker",
+      "Providers\nEquitable\niA Financial Group\nIvari\nManulife"
+    ],
+    "bodyText": "Providers\nBusiness Tracker\nProviders\nEquitable\niA Financial Group\nIvari\nManulife\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Form - Contact",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c2baf2",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "—",
+      "Choose something",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "text",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "email",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Form - Guest",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c2baf2",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "—",
+      "Choose something",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "text",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "email",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Form - Appt",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c2baf2",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "—",
+      "Choose something",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "text",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "email",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Form - Recruit",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c2baf2",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "—",
+      "Choose something",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "text",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "email",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  },
+  {
+    "screen": "Form - Biz",
+    "url": "https://sla-business-tracker.glide.page/dl/a400f7/S/c2baf2",
+    "kpiCards": [
+      "Cash Flow",
+      "0\n\nPoints",
+      "0\n\nNew Appointments",
+      "0\n\nAgents",
+      "0\n\nLicenses",
+      "0\n\nStudying",
+      "✨ RP✨"
+    ],
+    "collectionItems": [
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor"
+    ],
+    "wireTexts": [
+      "⏳ 2026 ⏳",
+      "💵 AT A GLANCE 💵",
+      "DAILY CHALLENGES🎯",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "🗣️ PHONE ZONE 🗣️"
+    ],
+    "buttons": [
+      "Contact",
+      "Guest",
+      "Appt",
+      "Recruit",
+      "Biz",
+      "Phone Zone • 100 RP\n\nComplete a 1 hour phone zone",
+      "Another One • 100 RP\n\nBook a new company overview",
+      "Accountable • 100 RP\n\nTouch base with your mentor",
+      "Close",
+      "BPM Guests",
+      "Teams",
+      "Providers",
+      "Install app",
+      "—",
+      "Choose something",
+      "Cancel",
+      "Submit",
+      "Retry"
+    ],
+    "inputs": [
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Full Name\nRequired"
+      },
+      {
+        "type": "file",
+        "placeholder": "",
+        "ariaLabel": "Profile Pic file browser",
+        "name": "",
+        "label": "Choose an image…"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "What is their current occupation",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "text",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Phone Number"
+      },
+      {
+        "type": "email",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Email"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Website"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "LinkedIn"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Facebook"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Instagram"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "X"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Married"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Age 25+"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Children"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Home Owner"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Occupation"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Ambitious"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Dissatisfied"
+      },
+      {
+        "type": "checkbox",
+        "placeholder": "",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Entrepreneurial"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Include details like where and how you met, attributes you noticed about them, hot buttons etc.",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Comments"
+      },
+      {
+        "type": "textarea",
+        "placeholder": "Correct Spelling/Grammar",
+        "ariaLabel": "",
+        "name": "",
+        "label": "Referred By"
+      }
+    ],
+    "sections": [
+      "Welcome back,",
+      "FRIDAY, APRIL 17, 2026\nWelcome back,",
+      "Contact\nGuest\nAppt\nRecruit\nBiz",
+      "⏳ 2026 ⏳",
+      "Cash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying",
+      "Progress → Marketing Director",
+      "💵 AT A GLANCE 💵",
+      "Progress →\n\nof",
+      "DAILY CHALLENGES🎯",
+      "✨ RP✨",
+      "Challenges → Completed\n\nof 3",
+      "📊 MONTHLY MOMENTUM 📊",
+      "📈 CRUSH 13 📈",
+      "📅 ACTIVITIES 📅",
+      "You have no new presentations booked at the moment, time to book some appointments!",
+      "💼 BUSINESS 💼",
+      "📲 NEW CONTACTS 📲",
+      "You have no new people to contact at the moment, time to do some prospecting!",
+      "🗣️ PHONE ZONE 🗣️",
+      "Full Name\nRequired",
+      "Profile Pic\nChoose an image…",
+      "Occupation",
+      "Phone Number",
+      "Email",
+      "Website",
+      "LinkedIn",
+      "Facebook",
+      "Instagram",
+      "Archetype\n—",
+      "Contact Type\nRequired\nChoose something"
+    ],
+    "bodyText": "Welcome back,\nFRIDAY, APRIL 17, 2026\nWelcome back,\nContact\nGuest\nAppt\nRecruit\nBiz\n⏳ 2026 ⏳\n\nCash Flow\n\n0\n\nPoints\n\n0\n\nNew Appointments\n\n0\n\nAgents\n\n0\n\nLicenses\n\n0\n\nStudying\n\nProgress → Marketing Director\n\n💵 AT A GLANCE 💵\n\nProgress →\n\nof\n\nDAILY CHALLENGES🎯\n✨ RP✨\n\nPhone Zone • 100 RP\n\nComplete a 1 hour phone zone \n\nAnother One • 100 RP\n\nBook a new company overview \n\nAccountable • 100 RP\n\nTouch base with your mentor \n\nChallenges → Completed\n\nof 3\n\n📊 MONTHLY MOMENTUM 📊\n📈 CRUSH 13 📈\n📅 ACTIVITIES 📅\n\nYou have no new presentations booked at the moment, time to book some appointments!\n\n💼 BUSINESS 💼\n📲 NEW CONTACTS 📲\n\nYou have no new people to contact at the moment, time to do some prospecting!\n\n🗣️ PHONE ZONE 🗣️\nBusiness Tracker\nClose\nBPM Guests\nTeams\nProviders\nInstall app\nAdd New Contact\nFull Name\nRequired\nProfile Pic\nChoose an image…\nOccupation\nPhone Number\nEmail\nWebsite\nLinkedIn\nFacebook\nInstagram\nX\nArchetype\n—\nContact Type\nRequired\nChoose something\nQualifiers\nRequired\nMarried\nAge 25+\nChildren\nHome Owner\nOccupation\nAmbitious\nDissatisfied\nEntrepreneurial\nComments\nReferred By\nCancel\nSubmit\nInstall Business Tracker\nAdd this app to your home screen for easy access and a better experience.\nTap\nthen \"Add to Home Screen\""
+  }
+]
