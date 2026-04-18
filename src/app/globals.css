@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sla-navy: #0f1e3c;
+  --color-sla-navy-light: #1a3260;
+  --color-sla-gold: #c9a227;
+  --color-sla-gold-light: #e8bf4b;
+  --color-sla-sidebar-bg: #0f1e3c;
+  --color-sla-sidebar-fg: #e2e8f0;
+  --color-sla-sidebar-active: #c9a227;
+}
+
+:root {
+  --sidebar-width: 240px;
+  --sidebar-collapsed-width: 64px;
+  --topbar-height: 56px;
+}
