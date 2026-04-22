@@ -12,6 +12,11 @@ const submitSchema = z.object({
   goodFaithAcknowledged: z.literal(true),
 });
 
+function getStartOfTodayUTC(): Date {
+  const now = new Date();
+  return new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+}
+
 export async function POST(req: NextRequest) {
   const session = await auth.api.getSession({ headers: await headers() });
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
@@ -23,38 +28,31 @@ export async function POST(req: NextRequest) {
   }
 
   const userId = session.user.id as string;
-  const todayStart = new Date();
-  todayStart.setHours(0, 0, 0, 0);
 
-  // Prevent duplicate submission for same challenge today
-  const existing = await db
-    .select({ id: challengeSubmissions.id })
-    .from(challengeSubmissions)
-    .where(
-      and(
-        eq(challengeSubmissions.agentId, userId),
-        eq(challengeSubmissions.challengeId, parsed.data.challengeId),
-        gte(challengeSubmissions.submittedAt, todayStart)
-      )
-    )
-    .limit(1);
+  try {
+    const [submission] = await db
+      .insert(challengeSubmissions)
+      .values({
+        challengeId: parsed.data.challengeId,
+        agentId: userId,
+        proofImageUrl: parsed.data.proofImageUrl,
+        goodFaithAcknowledged: true,
+        status: "pending",
+      })
+      .returning();
 
-  if (existing.length > 0) {
-    return NextResponse.json({ error: "Already submitted today" }, { status: 409 });
+    return NextResponse.json(submission, { status: 201 });
+  } catch (error) {
+    if (
+      error instanceof Error &&
+      "code" in error &&
+      (error as { code: string }).code === "23505"
+    ) {
+      return NextResponse.json({ error: "Already submitted today" }, { status: 409 });
+    }
+    console.error("Failed to create submission:", error);
+    return NextResponse.json({ error: "Failed to create submission" }, { status: 500 });
   }
-
-  const [submission] = await db
-    .insert(challengeSubmissions)
-    .values({
-      challengeId: parsed.data.challengeId,
-      agentId: userId,
-      proofImageUrl: parsed.data.proofImageUrl,
-      goodFaithAcknowledged: true,
-      status: "pending",
-    })
-    .returning();
-
-  return NextResponse.json(submission, { status: 201 });
 }
 
 export async function GET() {
@@ -62,18 +60,22 @@ export async function GET() {
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
 
   const userId = session.user.id as string;
-  const todayStart = new Date();
-  todayStart.setHours(0, 0, 0, 0);
+  const todayStart = getStartOfTodayUTC();
 
-  const submissions = await db
-    .select()
-    .from(challengeSubmissions)
-    .where(
-      and(
-        eq(challengeSubmissions.agentId, userId),
-        gte(challengeSubmissions.submittedAt, todayStart)
-      )
-    );
+  try {
+    const submissions = await db
+      .select()
+      .from(challengeSubmissions)
+      .where(
+        and(
+          eq(challengeSubmissions.agentId, userId),
+          gte(challengeSubmissions.submittedAt, todayStart)
+        )
+      );
 
-  return NextResponse.json(submissions);
+    return NextResponse.json(submissions);
+  } catch (error) {
+    console.error("Failed to fetch submissions:", error);
+    return NextResponse.json({ error: "Failed to fetch submissions" }, { status: 500 });
+  }
 }

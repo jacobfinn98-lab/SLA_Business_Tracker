@@ -8,11 +8,18 @@ import {
   uuid,
   uniqueIndex,
 } from "drizzle-orm/pg-core";
+import { sql } from "drizzle-orm";
 import { relations } from "drizzle-orm";
 
 // ─── Enums ────────────────────────────────────────────────────────────────────
 
-export const userRoleEnum = pgEnum("user_role", ["agent", "mentor", "admin"]);
+export const userRoleEnum = pgEnum("user_role", [
+  "training_associate",
+  "associate",
+  "marketing_director",
+  "senior_marketing_director",
+  "admin",
+]);
 
 export const contactTypeEnum = pgEnum("contact_type", [
   "prospect",
@@ -54,7 +61,7 @@ export const users = pgTable("users", {
   name: text("name").notNull(),
   image: text("image"),
   passwordHash: text("password_hash"),
-  role: userRoleEnum("role").notNull().default("agent"),
+  role: userRoleEnum("role").notNull().default("training_associate"),
   teamId: uuid("team_id").references(() => teams.id, { onDelete: "set null" }),
   createdAt: timestamp("created_at").notNull().defaultNow(),
   updatedAt: timestamp("updated_at").notNull().defaultNow(),
@@ -110,7 +117,7 @@ export const teamMembers = pgTable("team_members", {
   userId: uuid("user_id")
     .notNull()
     .references(() => users.id, { onDelete: "cascade" }),
-  role: userRoleEnum("role").notNull().default("agent"),
+  role: userRoleEnum("role").notNull().default("training_associate"),
   joinedAt: timestamp("joined_at").notNull().defaultNow(),
 });
 
@@ -196,25 +203,37 @@ export const dailyChallenges = pgTable("daily_challenges", {
 
 // ─── Challenge Submissions ────────────────────────────────────────────────────
 
-export const challengeSubmissions = pgTable("challenge_submissions", {
-  id: uuid("id").primaryKey().defaultRandom(),
-  challengeId: uuid("challenge_id")
-    .notNull()
-    .references(() => dailyChallenges.id, { onDelete: "cascade" }),
-  agentId: uuid("agent_id")
-    .notNull()
-    .references(() => users.id, { onDelete: "cascade" }),
-  proofImageUrl: text("proof_image_url"),
-  goodFaithAcknowledged: boolean("good_faith_acknowledged")
-    .notNull()
-    .default(false),
-  status: submissionStatusEnum("status").notNull().default("pending"),
-  submittedAt: timestamp("submitted_at").notNull().defaultNow(),
-  reviewedById: uuid("reviewed_by_id").references(() => users.id, {
-    onDelete: "set null",
-  }),
-  reviewedAt: timestamp("reviewed_at"),
-});
+export const challengeSubmissions = pgTable(
+  "challenge_submissions",
+  {
+    id: uuid("id").primaryKey().defaultRandom(),
+    challengeId: uuid("challenge_id")
+      .notNull()
+      .references(() => dailyChallenges.id, { onDelete: "cascade" }),
+    agentId: uuid("agent_id")
+      .notNull()
+      .references(() => users.id, { onDelete: "cascade" }),
+    proofImageUrl: text("proof_image_url"),
+    goodFaithAcknowledged: boolean("good_faith_acknowledged")
+      .notNull()
+      .default(false),
+    status: submissionStatusEnum("status").notNull().default("pending"),
+    submittedAt: timestamp("submitted_at").notNull().defaultNow(),
+    reviewedById: uuid("reviewed_by_id").references(() => users.id, {
+      onDelete: "set null",
+    }),
+    reviewedAt: timestamp("reviewed_at"),
+  },
+  (table) => ({
+    agentChallengeDayUniqueIdx: uniqueIndex(
+      "challenge_submissions_agent_challenge_day_uidx"
+    ).on(
+      table.agentId,
+      table.challengeId,
+      sql`date(${table.submittedAt} at time zone 'utc')`
+    ),
+  })
+);
 
 // ─── Business Submissions ─────────────────────────────────────────────────────
 

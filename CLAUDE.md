@@ -117,7 +117,15 @@ Every table that holds tenant data has a `team_id` foreign key. All Route Handle
 
 ### Role-based access
 
-Roles: `owner` > `admin` > `member`. Permission checks are enforced in `lib/permissions/authorize.ts`, called at the top of every mutating Route Handler. It throws a `403` before any database access if the session role does not satisfy the required level.
+| Rank | DB Slug | Display Name | Permissions |
+|---|---|---|---|
+| 0 | `training_associate` | Training Associate | Submit challenges |
+| 1 | `associate` | Associate | Submit challenges + recruit new agents |
+| 2 | `marketing_director` | Marketing Director | Approve challenge submissions |
+| 3 | `senior_marketing_director` | Senior Marketing Director | Manage providers, teams, members |
+| 4 | `admin` | Admin | Full control |
+
+Permission checks are enforced in `lib/permissions/authorize.ts`, called at the top of every mutating Route Handler. It throws a `403` before any database access if the session role rank does not meet the required level. Default role for new users is `training_associate`.
 
 ### Realtime
 

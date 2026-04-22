@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { CheckCircle2, Circle, ChevronDown, ChevronUp, Loader2 } from "lucide-react";
 
 interface DailyChallengeCardProps {
@@ -22,10 +22,16 @@ export function DailyChallengeCard({
   const [acknowledged, setAcknowledged] = useState(false);
   const [submitting, setSubmitting] = useState(false);
   const [localStatus, setLocalStatus] = useState(submissionStatus);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    setLocalStatus(submissionStatus);
+  }, [submissionStatus]);
 
   async function handleSubmit() {
     if (!acknowledged || localStatus !== "none") return;
     setSubmitting(true);
+    setError(null);
     try {
       const res = await fetch("/api/challenge-submissions", {
         method: "POST",
@@ -35,7 +41,12 @@ export function DailyChallengeCard({
       if (res.ok) {
         setLocalStatus("pending");
         setExpanded(false);
+      } else {
+        const data = await res.json().catch(() => ({}));
+        setError((data as { error?: string }).error ?? "Submission failed. Please try again.");
       }
+    } catch {
+      setError("Network error. Please check your connection.");
     } finally {
       setSubmitting(false);
     }
@@ -57,6 +68,7 @@ export function DailyChallengeCard({
     <div className={`rounded-xl border-2 ${statusColor} transition-colors`}>
       <button
         onClick={() => setExpanded((x) => !x)}
+        aria-expanded={expanded}
         className="w-full flex items-center justify-between gap-3 p-4 text-left"
       >
         <div className="flex items-center gap-3 min-w-0">
@@ -87,6 +99,10 @@ export function DailyChallengeCard({
       {expanded && (
         <div className="px-4 pb-4 border-t border-gray-100 pt-3 space-y-4">
           <p className="text-sm text-gray-600">{description}</p>
+
+          {error && (
+            <p className="text-sm text-red-600">{error}</p>
+          )}
 
           {localStatus === "none" && (
             <>

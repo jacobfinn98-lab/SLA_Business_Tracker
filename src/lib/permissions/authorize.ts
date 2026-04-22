@@ -1,11 +1,18 @@
 import type { User } from "@/lib/auth";
 
-type Role = "agent" | "mentor" | "admin";
+type Role =
+  | "training_associate"
+  | "associate"
+  | "marketing_director"
+  | "senior_marketing_director"
+  | "admin";
 
 const ROLE_RANK: Record<Role, number> = {
-  agent: 0,
-  mentor: 1,
-  admin: 2,
+  training_associate: 0,
+  associate: 1,
+  marketing_director: 2,
+  senior_marketing_director: 3,
+  admin: 4,
 };
 
 export function authorize(user: User | null, required: Role): void {
